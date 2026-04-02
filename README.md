@@ -10,4 +10,4 @@ This project showcases an interactive COVID-19 dashboard built using Tableau.
 - Data Visualization
 
 ## 📷 Preview
-
+![Dashboard Preview](Covid Dashboard.png)
